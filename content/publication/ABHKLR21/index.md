@@ -10,14 +10,14 @@ authors:
 - Eduard Hauck
 - Eike Kiltz
 - Benjamin Lipp
-- admin
+- Doreen Riepel
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021"
+date: "2021-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
