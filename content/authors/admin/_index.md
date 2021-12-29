@@ -68,4 +68,4 @@ I am a PhD student in the research group of Eike Kiltz at Ruhr University Bochum
 I am interested in public-key cryptography and in particular in provable security. My research focuses on the design and analysis of cryptographic protocols.
 
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
