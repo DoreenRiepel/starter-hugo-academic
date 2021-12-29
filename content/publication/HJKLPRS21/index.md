@@ -49,8 +49,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
+
 url_pdf: 'https://eprint.iacr.org/2021/863.pdf'
-url_code: 'https://github.com/Inria-Prosecco/hpke-analysis-suppl-material'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

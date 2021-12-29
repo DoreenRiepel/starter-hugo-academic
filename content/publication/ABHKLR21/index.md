@@ -45,8 +45,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+# - name: CryptoVerif
+#   url: https://github.com/Inria-Prosecco/hpke-analysis-suppl-material
 
 url_pdf: 'https://eprint.iacr.org/2020/1499.pdf'
 url_code: ''
@@ -56,6 +56,10 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
+
+links:
+- name: CryptoVerif
+  url: https://github.com/Inria-Prosecco/hpke-analysis-suppl-material
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
