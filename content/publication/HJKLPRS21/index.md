@@ -31,7 +31,7 @@ publishDate: []
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In CRYPTO 2021
+publication: CRYPTO 2021
 publication_short: []
 
 abstract: We construct the first authenticated key exchange protocols that achieve tight security in the *standard model*. Previous works either relied on techniques that seem to inherently require a random oracle, or achieved only ``Multi-Bit-Guess'' security, which is not known to compose tightly, for instance, to build a secure channel. Our constructions are generic, based on digital signatures and key encapsulation mechanisms (KEMs). The main technical challenges we resolve is to determine suitable KEM security notions which on the one hand are strong enough to yield tight security, but at the same time weak enough to be efficiently instantiable in the standard model, based on standard techniques such as universal hash proof systems. Digital signature schemes with tight multi-user security in presence of adaptive corruptions are a central building block, which is used in all known constructions of tightly-secure AKE with full forward security. We identify a subtle gap in the security proof of the only previously known efficient standard model scheme by Bader et al. (TCC 2015). We develop a new variant, which yields the currently most efficient signature scheme that achieves this strong security notion without random oracles and based on standard hardness assumptions.
@@ -50,7 +50,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://eprint.iacr.org/2021/863.pdf'
-url_code: ''
+url_code: 'https://github.com/Inria-Prosecco/hpke-analysis-suppl-material'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -79,13 +79,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: slides
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

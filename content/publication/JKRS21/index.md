@@ -28,7 +28,7 @@ publishDate: []
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In EUROCRYPT 2021
+publication: EUROCRYPT 2021
 publication_short: []
 
 abstract: We introduce new tightly-secure authenticated key exchange (AKE) protocols that are extremely efficient, yet have only a constant security loss and can be instantiated in the random oracle model both from the standard DDH assumption and a subgroup assumption over RSA groups. These protocols can be deployed with optimal parameters, independent of the number of users or sessions, without the need to compensate a security loss with increased parameters and thus decreased computational efficiency. We use the standard *Single-Bit-Guess* AKE security (with forward secrecy and state corruption) requiring all challenge keys to be simultaneously pseudo-random. In contrast, most previous papers on tightly secure AKE protocols (Bader et al., TCC 2015; Gjøsteen and Jager, CRYPTO 2018; Liu et al., ASIACRYPT 2020) concentrated on a non-standard *Multi-Bit-Guess* AKE security which is known not to compose tightly with symmetric primitives to build a secure communication channel. Our key technical contribution is a new generic approach to construct tightly-secure AKE protocols based on non-committing key encapsulation mechanisms. The resulting DDH-based protocols are considerably more efficient than all previous constructions.
@@ -76,13 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: slides
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

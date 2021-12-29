@@ -23,10 +23,10 @@ twitter: ''
 email: doreen.riepel@rub.de
 phone: 
 address:
-  street: Universitätsstraße 150, Building MC, Ground Floor, Room 20
-  city: Bochum
-  region: NRW
-  postcode: '44801'
+  street: Ruhr-Universität Bochum, Building MC, Ground Floor, Room 20
+  city: 44801 Bochum
+  region: 
+  postcode: 
   country: Germany
   country_code: DE
 coordinates:
@@ -45,7 +45,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
 
 # Localization

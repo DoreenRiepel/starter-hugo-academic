@@ -30,7 +30,7 @@ publishDate: []
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In EUROCRYPT 2021
+publication: EUROCRYPT 2021
 publication_short: []
 
 abstract: The *Hybrid Public Key Encryption* (HPKE) scheme is an emerging standard currently under consideration by the Crypto Forum Research Group (CFRG) of the IETF as a candidate for formal approval. Of the four modes of HPKE, we analyse the authenticated mode HPKE-Auth in its single-shot encryption form as it contains what is, arguably, the most novel part of HPKE. HPKE-Auth's intended application domain is captured by a new primitive which we call Authenticated Public Key Encryption (APKE). We provide syntax and security definitions for APKE schemes, as well as for the related Authenticated Key Encapsulation Mechanisms (AKEMs). We prove security of the AKEM scheme DH-AKEM underlying HPKE-Auth based on the Gap Diffie-Hellman assumption and provide general AKEM/DEM composition theorems with which to argue about HPKE-Auth's security. To this end, we also formally analyse HPKE-Auth's key schedule and key derivation functions. To increase confidence in our results we use the automatic theorem proving tool CryptoVerif. All our bounds are quantitative and we discuss their practical implications for HPKE-Auth. As an independent contribution  we  propose the new framework of *nominal groups* that allows us to capture abstract syntactical and security properties of practical elliptic curves, including the Curve25519 and Curve448 based groups (which do not constitute cyclic groups).
@@ -79,12 +79,3 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

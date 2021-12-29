@@ -16,9 +16,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cryptography and provable security.
 
-# Interests to show in About widget
+# Interests to show in About
 interests:
-- Cryptography
+- Public-Key Cryptography
 - Provable Security
 
 # Education to show in About widget
@@ -65,7 +65,7 @@ highlight_name: true
 
 I am a PhD student in the research group of Eike Kiltz at Ruhr University Bochum (RUB), Germany, in the DFG Cluster of Excellence “Cyber Security in the Age of Large-Scale Adversaries“ (CASA). 
 
-I am interested in public key cryptography and in particular in provable security. My research focuses on the design and analysis of cryptographic protocols.
+I am interested in public-key cryptography and in particular in provable security. My research focuses on the design and analysis of cryptographic protocols.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
