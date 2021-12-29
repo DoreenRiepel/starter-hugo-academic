@@ -59,6 +59,11 @@ url_slides: ''
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=H_2hiCO_Dow'
 
+links:
+- name: Slides
+  url: uploads/slides_HJKLPRS21.pdf
+
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
