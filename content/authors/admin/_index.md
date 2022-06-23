@@ -61,11 +61,15 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
 ---
 
-I am a PhD student in the research group of Eike Kiltz at Ruhr University Bochum (RUB), Germany, in the DFG Cluster of Excellence “Cyber Security in the Age of Large-Scale Adversaries“ (CASA). 
+I am a 4th PhD student in the research group of Eike Kiltz at Ruhr University Bochum (RUB), Germany, in the DFG Cluster of Excellence “Cyber Security in the Age of Large-Scale Adversaries“ (CASA).
 
 I am interested in public-key cryptography and in particular in provable security. My research focuses on the design and analysis of cryptographic protocols.
 
+I am lucky to have worked with inspiring researchers on the topic of (password) authenticated key exchange in several collaborations. In Summer 2021 I did a virtual internship at NTT Research mentored by Hoeteck Wee working on attribute-based encryption. We finally met in person during my stay at UC Berkeley in Spring 2022, where I visited the Crypto group of Sanjam Garg.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
