@@ -1,5 +1,5 @@
 ---
-title: "Tightly-Secure Authenticated Key Exchange, Revisited"
+title: "Authenticated Key Exchange and Signatures with Tight Security in the Standard Model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
