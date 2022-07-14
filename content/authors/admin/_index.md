@@ -64,7 +64,7 @@ highlight_name: true
 
 ---
 
-I am a 4th PhD student in the research group of Eike Kiltz at Ruhr University Bochum (RUB), Germany, in the DFG Cluster of Excellence “Cyber Security in the Age of Large-Scale Adversaries“ (CASA).
+I am a 4th-year PhD student in the research group of Eike Kiltz at Ruhr University Bochum (RUB), Germany, in the DFG Cluster of Excellence “Cyber Security in the Age of Large-Scale Adversaries“ (CASA).
 
 I am interested in public-key cryptography and in particular in provable security. My research focuses on the design and analysis of cryptographic protocols.
 
