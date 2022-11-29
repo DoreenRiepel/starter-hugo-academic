@@ -26,7 +26,7 @@ publishDate: []
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ACM CCS 2022 (to appear)
+publication: ACM CCS 2022
 publication_short: []
 
 abstract: Attribute-based encryption (ABE) enables fine-grained access control on encrypted data and has a large number of practical applications. This paper presents FABEO{:} faster pairing-based ciphertext-policy and key-policy ABE schemes that support expressive policies and put no restriction on policy type or attributes, and the first to achieve optimal, adaptive security with multiple challenge ciphertexts. We implement our schemes and demonstrate that they perform better than the state-of-the-art (Bethencourt et al. S&P 2007, Agrawal et al., CCS 2017 and Ambrona et al., CCS 2017) on all parameters of practical interest.
@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://eprint.iacr.org/2022/1415.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
