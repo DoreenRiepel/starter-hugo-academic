@@ -54,11 +54,11 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/fcJyA3NBwpQ?list=PLeeS-3Ml-rpohTqwyNZE37TKuJPCei_fa&t=3075'
 
-# links:
-# - name: CryptoVerif
-#   url: https://github.com/Inria-Prosecco/hpke-analysis-suppl-material
+links:
+- name: Slides
+  url: uploads/slides_JKRS21.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
