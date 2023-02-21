@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://eprint.iacr.org/2022/1230.pdf'
+url_pdf: 'https://eprint.iacr.org/2023/186.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
