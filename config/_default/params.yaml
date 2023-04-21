@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: doreen.riepel@rub.de
+email: driepel@ucsd.edu
 phone: 
 address:
-  street: Ruhr-Universität Bochum, Building MC, Ground Floor, Room 20
-  city: Bochum
-  region: 
-  postcode: '44801'
-  country: Germany
-  country_code: DE
+  street: UC San Diego, CSE, Office 4136
+  city: La Jolla
+  region: California
+  postcode: '92093'
+  country: USA
+  country_code: 
 coordinates:
   latitude: ''
   longitude: ''

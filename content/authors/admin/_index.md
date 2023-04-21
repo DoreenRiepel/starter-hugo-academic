@@ -6,12 +6,12 @@ title: Doreen Riepel
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Ruhr-Universität Bochum
-  url: https://www.crypto.ruhr-uni-bochum.de/
+- name: UC San Diego
+  url: https://cstheory.ucsd.edu/home.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cryptography and provable security.
@@ -24,6 +24,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - couse: PhD in Cryptography
+    institution: Ruhr-Universität Bochum
+    year: 2023
   - course: MSc in IT Security
     institution: Ruhr-Universität Bochum
     year: 2019
@@ -67,7 +70,7 @@ highlight_name: true
 
 ---
 
-I am a 4th-year PhD student in the research group of Eike Kiltz at Ruhr University Bochum (RUB), Germany, in the DFG Cluster of Excellence “Cyber Security in the Age of Large-Scale Adversaries“ (CASA).
+I am a postdoctoral researcher at UC San Diego working with Mihir Bellare. Before that, I completed my PhD in the research group of Eike Kiltz at Ruhr University Bochum (RUB), Germany, in the DFG Cluster of Excellence “Cyber Security in the Age of Large-Scale Adversaries“ (CASA).
 
 I am interested in public-key cryptography and in particular in provable security. My research focuses on the design and analysis of cryptographic protocols.
 
