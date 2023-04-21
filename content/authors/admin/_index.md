@@ -24,7 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - couse: PhD in Cryptography
+  - course: PhD in Cryptography
     institution: Ruhr-Universität Bochum
     year: 2023
   - course: MSc in IT Security
