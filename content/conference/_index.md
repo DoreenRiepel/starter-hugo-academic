@@ -2,6 +2,7 @@
 title: Services
 cms_exclude: true
 show_related: false
+links_title: false
 date: ""
 showthedate: false
 show_date: false
@@ -10,5 +11,5 @@ show_date: false
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 5
 ---
