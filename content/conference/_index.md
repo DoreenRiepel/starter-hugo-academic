@@ -1,6 +1,7 @@
 ---
 title: Services
 cms_exclude: true
+show_related: false
 
 # View.
 #   1 = List
