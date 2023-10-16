@@ -7,5 +7,5 @@ summary:
 _build:
   render: never
 ---
-TCC 2023; {{< line_break >}}
+TCC 2023; 
 Eurocrypt 2024
