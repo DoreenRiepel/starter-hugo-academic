@@ -2,6 +2,7 @@
 title: Services
 cms_exclude: true
 show_related: false
+links_title: false
 
 # View.
 #   1 = List

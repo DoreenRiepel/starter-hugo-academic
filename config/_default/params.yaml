@@ -73,14 +73,14 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
-  project: true
+  post: false
+  project: false
   publication: true
-  event: true
-reading_time: true
+  event: false
+reading_time: false
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
@@ -105,11 +105,11 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: true
+    post: false
     book: true
-    project: true
-    publication: true
-    event: true
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
     show_count: true
