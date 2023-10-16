@@ -77,5 +77,5 @@ I am interested in public-key cryptography and in particular in provable securit
 I am lucky to have worked with inspiring researchers on the topic of (password) authenticated key exchange in several collaborations. In Summer 2021 I did a virtual internship at NTT Research mentored by Hoeteck Wee working on attribute-based encryption. We finally met in person during my stay at UC Berkeley in Spring 2022, where I visited the Crypto group of Sanjam Garg.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. My dissertation can be found {{< staticref "uploads/phd-thesis-doreen-riepel.pdf" "newtab" >}}here{{< /staticref >}}.
 
