@@ -28,7 +28,7 @@ rsync -av --exclude gallery/ ../themes/academic/exampleSite/content/home/ ../con
 rsync -av ../themes/academic/exampleSite/content/post/_index.md ../content/post/_index.md
 rsync -av ../themes/academic/exampleSite/content/publication/_index.md ../content/publication/_index.md
 rsync -av ../themes/academic/exampleSite/content/talk/_index.md ../content/talk/_index.md
-rsync -av ../themes/academic/exampleSite/content/service/_index.md ../content/conference/_index.md
+# rsync -av ../themes/academic/exampleSite/content/service/_index.md ../content/conference/_index.md
 
 # Skip static dir - do not import the demo's media library
 
