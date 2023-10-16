@@ -19,7 +19,6 @@ content:
   count: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-  
 
 design:
   # Choose a view for the listings:
@@ -29,3 +28,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+PC
