@@ -36,9 +36,10 @@ design:
 
 ### Reviewing
 
-- Crypto 2020, 2022  
-- Eurocrypt 2021, 2023  
-- PKC 2023  
+- Crypto 2020, 2022-2024
+- Eurocrypt 2021, 2023
+- PKC 2023
 - ACM TOPS Journal 2022
+- Journal of Cryptology
 
 
