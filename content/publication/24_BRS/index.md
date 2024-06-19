@@ -1,5 +1,5 @@
 ---
-title: "Highly-Effective Backdoors for Hash Functions and Beyond"
+title: "Algorithm Substitution Attacks on Public Functions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-04-12T00:00:00Z"
+date: "2024-05-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,7 +30,7 @@ publication_types: ["3"]
 publication: Cryptology ePrint Archive
 publication_short: []
 
-abstract: We study the possibility of schemes whose public parameters have been generated along with a backdoor. We consider the goal of the big-brother adversary to be two-fold{:} It desires utility (it can break the scheme) but also exclusivity (nobody else can). Starting with hash functions, we give new, strong definitions for these two goals, calling the combination high effectiveness. We then present a construction of a backdoored hash function that is highly effective, meaning provably meets our new definition. As an application, we investigate forgery of X.509 certificates that use this hash function. We then consider signatures, again giving a definition of high effectiveness, and showing that it can be achieved. But we also give some positive results, namely that for the Okamoto and Katz-Wang signature schemes, certain natural backdoor strategies are provably futile. Our backdoored constructions serve to warn that backdoors can be more powerful and damaging than previously conceived, and to help defenders and developers identify potential backdoors by illustrating how they might be built. Our positive results illustrate that some schemes do offer more backdoor resistance than others, which may make them preferable.
+abstract: We study the possibility of algorithm substitution attacks (ASAs) on functions with no secret-key material, such as hash functions, and verification algorithms of signature schemes and proof systems. We consider big-brother’s goal to be three-fold{:} It desires utility (it can break the scheme), exclusivity (nobody else can) and undetectability (outsiders can’t detect its presence). We start with a general setting in which big-brother is aiming to subvert an arbitrary public function. We give, in this setting, strong definitions for the three goals. We then present a general construction of an ASA, and prove that it meets these definitions. We use this to derive, as applications, ASAs on hash functions, signature schemes and proof systems. As a further application of the first two, we give an ASA on X.509 certificates. While ASAs were traditionally confined to exfiltrating secret keys, our work shows that they are possible and effective at subverting public functions where there are no keys to exfiltrate. Our constructions serve to help defenders and developers identify potential attacks by illustrating how they might be built.
 
 # Summary. An optional shortened abstract.
 # summary: []
