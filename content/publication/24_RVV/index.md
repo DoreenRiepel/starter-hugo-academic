@@ -1,5 +1,5 @@
 ---
-title: "ISABELLA: Improving Structures of Attribute-Based Encryption Leveraging Linear Algebra},"
+title: "ISABELLA: Improving Structures of Attribute-Based Encryption Leveraging Linear Algebra"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
