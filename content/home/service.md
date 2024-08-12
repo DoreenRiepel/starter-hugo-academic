@@ -33,12 +33,16 @@ design:
 
 - TCC 2023  
 - Eurocrypt 2024
+- ACNS 2025
+- PKC 2025
 
 ### Reviewing
 
 - Crypto 2020, 2022-2024
-- Eurocrypt 2021, 2023
+- Eurocrypt 2021, 2023-2024
+- Asiacrypt 2024
 - PKC 2023
+- TCC 2024
 - ACM TOPS Journal 2022
 - Journal of Cryptology
 
