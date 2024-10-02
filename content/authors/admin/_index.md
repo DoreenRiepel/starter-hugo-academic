@@ -17,22 +17,22 @@ organizations:
 bio: My research interests include cryptography and provable security.
 
 # Interests to show in About
-interests:
-- Public-Key Cryptography
-- Provable Security
+# interests:
+# - Public-Key Cryptography
+# - Provable Security
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Cryptography
-    institution: Ruhr-Universität Bochum
-    year: 2023
-  - course: MSc in IT Security
-    institution: Ruhr-Universität Bochum
-    year: 2019
-  - course: BSc in Business Information Systems
-    institution: Duale Hochschule Baden-Württemberg
-    year: 2016
+# education:
+#   courses:
+#   - course: PhD in Cryptography
+#     institution: Ruhr-Universität Bochum
+#     year: 2023
+#   - course: MSc in IT Security
+#     institution: Ruhr-Universität Bochum
+#     year: 2019
+#   - course: BSc in Business Information Systems
+#     institution: Duale Hochschule Baden-Württemberg
+#     year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,12 +70,11 @@ highlight_name: true
 
 ---
 
-I am a postdoctoral researcher at UC San Diego working with Mihir Bellare. Before that, I completed my PhD in the research group of Eike Kiltz at Ruhr University Bochum (RUB), Germany, in the DFG Cluster of Excellence “Cyber Security in the Age of Large-Scale Adversaries“ (CASA).
+I am a postdoctoral researcher at UC San Diego working with [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/index.html). My research focuses on the foundations of applied cryptography and in particular on provable security. I contribute to analyzing real-world cryptographic schemes to improve their theoretical security guarantees. Additionally, I design new schemes and protocols for practice, which often requires the formalization of new or stronger security models.
 
-I am interested in public-key cryptography and in particular in provable security. My research focuses on the design and analysis of cryptographic protocols.
+More specifically, I enjoy working on any kind of key exchange protocols including their use in secure messaging, often with a focus on game-based security definitions and tight security proofs. I am also generally interested in public-key encryption with advanced functionalities, like updatable (public-key) encryption and attribute-based encryption. I am lucky to have collaborated with inspiring researchers on these topics and I also engaged in interdisciplinary research projects. I completed my PhD in the research group of [Eike Kiltz](https://informatik.rub.de/kiltz/) at Ruhr University Bochum, Germany. I did a virtual internship at NTT Research and visited UC Berkeley, University of Washington and NTNU Trondheim.
 
-I am lucky to have worked with inspiring researchers on the topic of (password) authenticated key exchange in several collaborations. In Summer 2021 I did a virtual internship at NTT Research mentored by Hoeteck Wee working on attribute-based encryption. We finally met in person during my stay at UC Berkeley in Spring 2022, where I visited the Crypto group of Sanjam Garg.
-
+<span style='color:#03fcc6; font-weight:bold'>I am starting as tenure-track faculty at [CISPA](https://career.cispa.de/phd.html) (Germany) in December and will have open PhD and PostDoc positions. Reach out to me if you are interested.</span>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. My dissertation can be found {{< staticref "uploads/phd-thesis-doreen-riepel.pdf" "newtab" >}}here{{< /staticref >}}.
 

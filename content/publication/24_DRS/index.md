@@ -1,14 +1,13 @@
 ---
-title: "Count Corruptions, Not Users: Improved Tightness for Signatures, Encryption and Authenticated Key Exchange"
+title: "Tightly-Secure Group Key Exchange with Perfect Forward Secrecy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Mihir Bellare
+- Emanuele Di Giandomenico
 - Doreen Riepel
-- Stefano Tessaro
-- Yizhao Zhang
+- Sven Schäge
 
 # Author notes (optional)
 # author_notes:
@@ -31,7 +30,7 @@ publication_types: ["1"]
 publication: ASIACRYPT 2024
 publication_short: []
 
-abstract: In the multi-user with corruptions (muc) setting there are n≥1 users, and the goal is to prove that, even in the face of an adversary that adaptively corrupts users to expose their keys, un-corrupted users retain security. This can be considered for many primitives including signatures and encryption. Proofs of muc security, while possible, generally suffer a factor n loss in tightness, which can be large. This paper gives new proofs where this factor is reduced to the number c of corruptions, which in practice is much smaller than n. We refer to this as corruption-parametrized muc (cp-muc) security. We give a general result showing it for a class of games that we call local. We apply this to get cp-muc security for signature schemes (including ones in standards and in TLS 1.3) and some forms of public-key and symmetric encryption. Then we give dedicated cp-muc security proofs for some important schemes whose underlying games are not local, including the Hashed ElGamal and Fujisaki-Okamoto KEMs and authenticated key exchange. Finally, we give negative results to show optimality of our bounds.
+abstract: In this work, we present a new paradigm for constructing Group Authenticated Key Exchange (GAKE). This result is the first tightly secure GAKE scheme  in a strong security model that allows maximum exposure attacks (MEX) where the attacker is allowed to either reveal the secret session state or the long-term secret of all communication partners. Moreover, our protocol features the strong and realistic notion of (full) perfect forward secrecy (PFS), that allows the attacker to actively modify messages before corrupting parties. We obtain our results via a series of tightly secure transformations. Our first transformation is from weakly secure KEMs to unilateral authenticated key exchange (UAKE) with weak forward secrecy (WFS). Next, we show how to turn this into an UAKE with PFS in the random oracle model. Finally, and as one of our major novel conceptual contributions, we describe how to build GAKE protocols from UAKE protocols, also in the random oracle model. We apply our transformations to obtain two practical GAKE protocols with tight security. The first is based on the DDH assumption and features low message complexity. Our second result is based on the LWE assumption. In this way, we obtain the first GAKE protocol from a post-quantum assumption that is tightly secure in a strong model of security allowing MEX attacks. 
 
 # Summary. An optional shortened abstract.
 # summary: []
@@ -47,7 +46,7 @@ featured: true
 #   url: http://example.org
 
 
-url_pdf: 'https://eprint.iacr.org/2024/1258.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

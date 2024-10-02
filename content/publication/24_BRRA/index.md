@@ -1,14 +1,14 @@
 ---
-title: "Count Corruptions, Not Users: Improved Tightness for Signatures, Encryption and Authenticated Key Exchange"
+title: "The Concrete Security of Two-Party Computation: Simple Definitions, and Tight Proofs for PSI and OPRFs"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Mihir Bellare
+- Rishabh Ranjan
 - Doreen Riepel
-- Stefano Tessaro
-- Yizhao Zhang
+- Ali Aldakheel
 
 # Author notes (optional)
 # author_notes:
@@ -31,7 +31,7 @@ publication_types: ["1"]
 publication: ASIACRYPT 2024
 publication_short: []
 
-abstract: In the multi-user with corruptions (muc) setting there are n≥1 users, and the goal is to prove that, even in the face of an adversary that adaptively corrupts users to expose their keys, un-corrupted users retain security. This can be considered for many primitives including signatures and encryption. Proofs of muc security, while possible, generally suffer a factor n loss in tightness, which can be large. This paper gives new proofs where this factor is reduced to the number c of corruptions, which in practice is much smaller than n. We refer to this as corruption-parametrized muc (cp-muc) security. We give a general result showing it for a class of games that we call local. We apply this to get cp-muc security for signature schemes (including ones in standards and in TLS 1.3) and some forms of public-key and symmetric encryption. Then we give dedicated cp-muc security proofs for some important schemes whose underlying games are not local, including the Hashed ElGamal and Fujisaki-Okamoto KEMs and authenticated key exchange. Finally, we give negative results to show optimality of our bounds.
+abstract: This paper initiates a concrete-security treatment of two-party secure computation. The first step is to propose, as target, a simple, indistinguishability-based definition that we call InI. This could be considered a poor choice if it were weaker than standard simulation-based definitions, but it is not; we show that for functionalities satisfying a condition called invertibility, that we define and show is met by functionalities of practical interest like PSI and its variants, the two definitions are equivalent. Based on this, we move forward to study the concrete security of a canonical OPRF-based construction of PSI, giving a tight proof of InI security of the constructed PSI protocol based on the security of the OPRF. This leads us to the concrete security of OPRFs, where we show how different DH-style assumptions on the underlying group yield proofs of different degrees of tightness, including some that are tight, for the well-known and efficient 2H-DH OPRF, and thus for the corresponding DH PSI protocol. We then give a new PSI protocol, called salted-DH PSI, that is as efficient as DH-PSI, yet enjoys tighter proofs.
 
 # Summary. An optional shortened abstract.
 # summary: []
@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 
 
-url_pdf: 'https://eprint.iacr.org/2024/1258.pdf'
+url_pdf: 'https://eprint.iacr.org/2024/1476.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

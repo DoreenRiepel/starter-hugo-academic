@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://eprint.iacr.org/2022/1415.pdf'
-url_code: ''
+url_code: 'https://github.com/DoreenRiepel/FABEO'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -56,8 +56,6 @@ url_video: ''
 links:
 - name: Slides
   url: uploads/slides_RW22.pdf
-- name: Implementation
-  url: https://github.com/DoreenRiepel/FABEO
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
