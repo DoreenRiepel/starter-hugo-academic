@@ -74,7 +74,9 @@ I am a postdoctoral researcher at UC San Diego working with [Mihir Bellare](http
 
 More specifically, I enjoy working on any kind of key exchange protocols including their use in secure messaging, often with a focus on game-based security definitions and tight security proofs. I am also generally interested in public-key encryption with advanced functionalities, like updatable (public-key) encryption and attribute-based encryption. I am lucky to have collaborated with inspiring researchers on these topics and I also engaged in interdisciplinary research projects. I completed my PhD in the research group of [Eike Kiltz](https://informatik.rub.de/kiltz/) at Ruhr University Bochum, Germany. I did a virtual internship at NTT Research and visited UC Berkeley, University of Washington and NTNU Trondheim.
 
-> <b> I am starting as tenure-track faculty at [CISPA](https://career.cispa.de/phd.html) (Germany) in December and will have open PhD and PostDoc positions. Reach out to me if you are interested. </b>
+> <b> I am starting as tenure-track faculty at [CISPA](https://career.cispa.de/phd.html) (Germany) in December and will have open PhD and PostDoc positions.  </b>
+
+<span style="color:--primary;">Reach out to me if you are interested.</span>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. My dissertation can be found {{< staticref "uploads/phd-thesis-doreen-riepel.pdf" "newtab" >}}here{{< /staticref >}}.
 
