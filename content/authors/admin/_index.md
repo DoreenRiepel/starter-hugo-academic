@@ -76,7 +76,7 @@ More specifically, I enjoy working on any kind of key exchange protocols includi
 
 > <b> I am starting as tenure-track faculty at [CISPA](https://career.cispa.de/phd.html) (Germany) in December and will have open PhD and PostDoc positions.  </b>
 
-<span style="color: val(--primary);">Reach out to me if you are interested.</span>
+<span style="color: primary">Reach out to me if you are interested.</span>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. My dissertation can be found {{< staticref "uploads/phd-thesis-doreen-riepel.pdf" "newtab" >}}here{{< /staticref >}}.
 
