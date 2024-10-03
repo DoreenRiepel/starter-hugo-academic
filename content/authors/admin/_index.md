@@ -69,7 +69,7 @@ email: ""
 highlight_name: true
 
 ---
-<span style="color:--color-accent; font-weight:bold">I am starting as tenure-track faculty at [CISPA](https://career.cispa.de/phd.html) (Germany) in December and will have open PhD and PostDoc positions. Reach out to me if you are interested.</span>
+<span style="color:lightColor; font-weight:bold">I am starting as tenure-track faculty at [CISPA](https://career.cispa.de/phd.html) (Germany) in December and will have open PhD and PostDoc positions. Reach out to me if you are interested.</span>
 
 Currently, I am a postdoctoral researcher at UC San Diego working with [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/index.html). My research focuses on the foundations of applied cryptography and in particular on provable security. I contribute to analyzing real-world cryptographic schemes to improve their theoretical security guarantees. Additionally, I design new schemes and protocols for practice, which often requires the formalization of new or stronger security models.
 
