@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://eprint.iacr.org/2024/1625.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
