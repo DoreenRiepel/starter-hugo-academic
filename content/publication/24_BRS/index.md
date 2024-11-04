@@ -1,5 +1,5 @@
 ---
-title: "Algorithm Substitution Attacks on Public Functions"
+title: "Public-Algorithm Substitution Attacks: Subverting Hashing and Verification"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
