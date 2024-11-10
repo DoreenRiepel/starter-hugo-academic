@@ -14,7 +14,7 @@ organizations:
   url: https://cstheory.ucsd.edu/home.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cryptography and provable security.
+bio: 
 
 # Interests to show in About
 # interests:

@@ -10,7 +10,7 @@ authors:
 - Eduard Hauck
 - Eike Kiltz
 - Benjamin Lipp
-- Doreen Riepel
+- admin
 
 # Author notes (optional)
 # author_notes:
