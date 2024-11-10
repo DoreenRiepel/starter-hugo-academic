@@ -6,7 +6,7 @@ title: "Tightly-Secure Group Key Exchange with Perfect Forward Secrecy"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Emanuele Di Giandomenico
-- Doreen Riepel
+- admin
 - Sven Schäge
 
 # Author notes (optional)

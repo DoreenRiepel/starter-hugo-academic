@@ -8,7 +8,7 @@ authors:
 - Thorsten Eisenhofer
 - Erwin Quiring
 - Jonas Möller
-- Doreen Riepel
+- admin
 - Thorsten Holz
 - Konrad Rieck
 

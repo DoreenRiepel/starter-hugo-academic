@@ -10,7 +10,7 @@ authors:
 - Eike Kiltz
 - Sabrina Kunzweiler
 - Jonas Lehmann
-- Doreen Riepel
+- admin
 
 # Author notes (optional)
 # author_notes:

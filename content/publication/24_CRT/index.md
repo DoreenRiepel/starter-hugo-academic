@@ -6,7 +6,7 @@ title: "On the Tight Security of the Double Ratchet"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Daniel Collins
-- Doreen Riepel
+- admin
 - Si An Oliver Tran
 
 # Author notes (optional)

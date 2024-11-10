@@ -7,7 +7,7 @@ title: "Multi-User CDH Problems and the Concrete Security of NAXOS and HMQV"
 authors:
 - Eike Kiltz
 - Jiaxin Pan
-- Doreen Riepel
+- admin
 - Magnus Ringerud
 
 # Author notes (optional)

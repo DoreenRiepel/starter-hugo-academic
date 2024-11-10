@@ -7,7 +7,7 @@ title: "Tightly-Secure Authenticated Key Exchange, Revisited"
 authors:
 - Tibor Jager
 - Eike Kiltz
-- Doreen Riepel
+- admin
 - Sven Schäge
 
 # Author notes (optional)

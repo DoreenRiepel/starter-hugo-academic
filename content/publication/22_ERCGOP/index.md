@@ -6,7 +6,7 @@ title: "Verifiable and Provably Secure Machine Unlearning"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Thorsten Eisenhofer
-- Doreen Riepel
+- admin
 - Varun Chandrasekaran
 - Esha Ghosh
 - Olga Ohrimenko

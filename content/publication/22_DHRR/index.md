@@ -7,7 +7,7 @@ title: "Strongly Anonymous Ratcheted Key Exchange"
 authors:
 - Benjamin Dowling
 - Eduard Hauck
-- Doreen Riepel
+- admin
 - Paul Rösler
 
 # Author notes (optional)

@@ -6,7 +6,7 @@ title: "Public-Algorithm Substitution Attacks: Subverting Hashing and Verificati
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Mihir Bellare
-- Doreen Riepel
+- admin
 - Laura Shea
 
 # Author notes (optional)

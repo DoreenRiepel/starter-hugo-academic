@@ -7,7 +7,7 @@ title: "The Concrete Security of Two-Party Computation: Simple Definitions, and 
 authors:
 - Mihir Bellare
 - Rishabh Ranjan
-- Doreen Riepel
+- admin
 - Ali Aldakheel
 
 # Author notes (optional)

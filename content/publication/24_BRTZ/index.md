@@ -6,7 +6,7 @@ title: "Count Corruptions, Not Users: Improved Tightness for Signatures, Encrypt
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Mihir Bellare
-- Doreen Riepel
+- admin
 - Stefano Tessaro
 - Yizhao Zhang
 

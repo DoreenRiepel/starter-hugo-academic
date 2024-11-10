@@ -6,7 +6,7 @@ title: "Key Exchange with Tight (Full) Forward Secrecy via Key Confirmation"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Jiaxin Pan
-- Doreen Riepel
+- admin
 - Runzhi Zeng
 
 # Author notes (optional)

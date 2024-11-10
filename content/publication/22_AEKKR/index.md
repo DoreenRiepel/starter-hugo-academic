@@ -9,7 +9,7 @@ authors:
 - Thorsten Eisenhofer
 - Eike Kiltz
 - Sabrina Kunzweiler
-- Doreen Riepel
+- admin
 
 # Author notes (optional)
 # author_notes:
