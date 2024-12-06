@@ -6,12 +6,12 @@ title: Doreen Riepel
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Tenure-Track Faculty
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: UC San Diego
-  url: https://cstheory.ucsd.edu/home.html
+- name: CISPA
+  url: https://cispa.de/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -70,11 +70,11 @@ highlight_name: true
 
 ---
 
-I am a postdoctoral researcher at UC San Diego working with [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/index.html). My research focuses on the foundations of applied cryptography and in particular on provable security. I contribute to analyzing real-world cryptographic schemes to improve their theoretical security guarantees. Additionally, I design new schemes and protocols for practice, which often requires the formalization of new or stronger security models.
+I am a tenure-track faculty at [CISPA](https://cispa.de/en). My research focuses on the foundations of applied cryptography and in particular on provable security. I contribute to analyzing real-world cryptographic schemes to improve their theoretical security guarantees. Additionally, I design new schemes and protocols for practice, which often requires the formalization of new or stronger security models.
 
-More specifically, I enjoy working on any kind of key exchange protocols including their use in secure messaging, often with a focus on game-based security definitions and tight security proofs. I am also generally interested in public-key encryption with advanced functionalities, like updatable (public-key) encryption and attribute-based encryption. I am lucky to have collaborated with inspiring researchers on these topics and I also engaged in interdisciplinary research projects. I completed my PhD in the research group of [Eike Kiltz](https://informatik.rub.de/kiltz/) at Ruhr University Bochum, Germany. I did a virtual internship at NTT Research and visited UC Berkeley, University of Washington and NTNU Trondheim.
+More specifically, I enjoy working on any kind of key exchange protocols including their use in secure messaging, often with a focus on game-based security definitions and tight security proofs. I am also generally interested in public-key encryption with advanced functionalities, like updatable (public-key) encryption and attribute-based encryption. I am lucky to have collaborated with inspiring researchers on these topics and I also engaged in interdisciplinary research projects. Before joining CISPA, I was a postdoctoral researcher at UC San Diego working with [Mihir Bellare](https://cseweb.ucsd.edu/~mihir/index.html). I completed my PhD in the research group of [Eike Kiltz](https://informatik.rub.de/kiltz/) at Ruhr University Bochum, Germany. I did a virtual internship at NTT Research and visited UC Berkeley, University of Washington and NTNU Trondheim.
 
-> <b> I am starting as tenure-track faculty at [CISPA](https://career.cispa.de/phd.html) (Germany) in December and will have open PhD and PostDoc positions. Reach out to me if you are interested. </b>
+> <b> I have open PhD and PostDoc positions. Reach out to me if you are interested! More information about the PhD program at CISPA can be found [here](https://career.cispa.de/phd.html). </b>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}. My dissertation can be found {{< staticref "uploads/phd-thesis-doreen-riepel.pdf" "newtab" >}}here{{< /staticref >}}.
 

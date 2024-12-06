@@ -20,14 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: firstname.lastname@gmail.com
+email: firstname.lastname@gmail.com, lastname@cispa.de
 phone: 
 address:
-  street: UC San Diego, CSE, Office 4136
-  city: La Jolla
-  region: California
-  postcode: '92093'
-  country: USA
+  street: Kaiserstraße 21
+  city: St. Ingbert
+  region: 
+  postcode: '66386'
+  country: Germany
   country_code: 
 coordinates:
   latitude: ''
