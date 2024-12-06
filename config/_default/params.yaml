@@ -24,11 +24,11 @@ email: firstname.lastname@gmail.com, lastname@cispa.de
 phone: 
 address:
   street: Kaiserstraße 21
-  city: St. Ingbert
+  city: St. Ingbert, Germany
   region: 
   postcode: '66386'
   country: Germany
-  country_code: 
+  country_code: DE
 coordinates:
   latitude: ''
   longitude: ''
