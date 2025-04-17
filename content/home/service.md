@@ -35,10 +35,11 @@ design:
 - Eurocrypt 2024
 - ACNS 2025
 - PKC 2025
+- S&P 2026
 
 ### Reviewing
 
-- Crypto 2020, 2022-2024
+- Crypto 2020, 2022-2025
 - Eurocrypt 2021, 2023
 - Asiacrypt 2024
 - PKC 2023
