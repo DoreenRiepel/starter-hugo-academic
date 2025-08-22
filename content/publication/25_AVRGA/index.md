@@ -47,8 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://eprint.iacr.org/2025/1230.pdf'
+url_code: 'https://github.com/lincolncryptools/ABE_Cubed'
 url_dataset: ''
 url_poster: ''
 url_project: ''
