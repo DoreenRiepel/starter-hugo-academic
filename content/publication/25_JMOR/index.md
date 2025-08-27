@@ -47,7 +47,7 @@ featured: true
 #   url: http://example.org
 
 
-url_pdf: 'https://eprint.iacr.org/2025/XXXXXX.pdf'
+url_pdf: 'https://eprint.iacr.org/2025/1474.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
