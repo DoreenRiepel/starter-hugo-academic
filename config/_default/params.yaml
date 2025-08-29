@@ -94,7 +94,7 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: paa
 projects:
   post_view: 2
   publication_view: 2
