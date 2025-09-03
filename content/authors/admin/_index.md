@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: bluesky-brands-solid-full
+- icon: bluesky
   icon_pack: custom
   link: https://bsky.app/profile/doreenriepel.bsky.social
 - icon: mastodon
