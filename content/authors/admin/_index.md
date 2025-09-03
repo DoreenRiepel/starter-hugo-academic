@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
-  link: https://twitter.com/doreenriepel
+  link: https://bsky.app/profile/doreenriepel.bsky.social
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@doreenriepel
@@ -54,6 +54,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/doreen-riepel-140196109/
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-4990-0929
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 

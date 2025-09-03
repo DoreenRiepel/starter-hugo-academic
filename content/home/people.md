@@ -33,7 +33,7 @@ design:
 
 - [Xiangyu Liu](https://xiangyuliu-yahoo.github.io) (Postdoc, since 06/2025)
 - [Subham Das](https://cryptosubh.github.io/index.html) (PhD student, since 09/2025)
-- Weidan Ji (remote intern, since 06/2025)
+- Weidan Ji (Remote intern, since 06/2025)
 
 ### Past Team Members
 
