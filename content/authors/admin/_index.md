@@ -43,7 +43,6 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: bluesky
-  icon_pack: assets/media/icons
   link: https://bsky.app/profile/doreenriepel.bsky.social
 - icon: mastodon
   icon_pack: fab
