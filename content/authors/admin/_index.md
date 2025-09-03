@@ -44,6 +44,9 @@ social:
   link: '/#contact'
 # - icon: assets/media/icons/bluesky
 #   link: https://bsky.app/profile/doreenriepel.bsky.social
+- icon: twitter
+  icon_pack: fab
+  link: https://bsky.app/profile/doreenriepel.bsky.social
 - icon: mastodon
   icon_pack: fab
   link: https://mastodon.social/@doreenriepel
