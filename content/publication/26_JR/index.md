@@ -1,5 +1,5 @@
 ---
-title: "Secure Cloud Storage: Modularization, Network Adversaries and Adaptive Corruptions."
+title: "Secure Cloud Storage: Modularization, Network Adversaries and Adaptive Corruptions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
