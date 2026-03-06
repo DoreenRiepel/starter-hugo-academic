@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 
-url_pdf: ''
+url_pdf: 'https://eprint.iacr.org/2026/434.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
